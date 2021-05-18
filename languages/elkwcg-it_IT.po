@@ -1,0 +1,138 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ELK WooCommerce Goodies\n"
+"POT-Creation-Date: 2021-05-18 17:44+0200\n"
+"PO-Revision-Date: 2021-05-18 17:44+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.4.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: elkwcg.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: elkwcg.php:45
+msgid "WooCommerce is required in order to use ELK WooCommerce Goodies"
+msgstr "WooCommerce è necessario per utilizzare ELK WooCommerce Goodies"
+
+#. Plugin Name of the plugin/theme
+#: elkwcg.php:50
+msgid "ELK WooCommerce Goodies"
+msgstr "ELK WooCommerce Goodies"
+
+#: elkwcg.php:60
+msgid "ELK WooCommerce Goodies Settings"
+msgstr "Impostazioni ELK WooCommerce Goodies Settings"
+
+#: elkwcg.php:62
+msgid "The following options are used to configure ELK WooCommerce Goodies"
+msgstr ""
+"Le seguenti opzioni vengono utilizzate per configurare ELK WooCommerce "
+"Goodies"
+
+#: elkwcg.php:67
+msgid "Minimum order"
+msgstr "Ordine minimo"
+
+#: elkwcg.php:68
+msgid "Insert the minimum cart value to enable order. Leave blank to disable"
+msgstr ""
+"Inserire il valore minimo del carrello per abilitare l'ordine. Lasciare "
+"vuoto per disabilitare"
+
+#: elkwcg.php:74
+msgid "Free shipping available at"
+msgstr "La spedizione gratuita a partire da"
+
+#: elkwcg.php:75
+msgid ""
+"Insert the cart value that triggers free shipping to enable a message about "
+"it's availability . Leave blank to disable"
+msgstr ""
+"Inserire il valore del carrello che attiva la spedizione gratuita per "
+"abilitare un messaggio sulla sua disponibilità . Lasciare vuoto per "
+"disabilitare"
+
+#: elkwcg.php:81
+msgid "Minimum items"
+msgstr "Articoli minimi"
+
+#: elkwcg.php:82
+msgid "Insert the minimum number of items per order. Leave blank to disable"
+msgstr ""
+"Inserisci il numero minimo di articoli per ordine. Lascia in bianco per "
+"disabilitare"
+
+#: elkwcg.php:88
+msgid "Multiple of"
+msgstr "Multipli di"
+
+#: elkwcg.php:89
+msgid "Insert the number the items must be multiple of. Leave blank to disable"
+msgstr ""
+"Inserisci il numero del quale gli articoli devono essere multiplo per "
+"ordine. Lascia in bianco per disabilitare"
+
+#: elkwcg.php:115
+#, php-format
+msgid ""
+"In your cart there are %1$s items — you must have at least %2$s items in "
+"your cart to place your order. <a href=\"%3$s\">Back to Store</a>"
+msgstr ""
+"Nel tuo carrello ci sono %1$s articoli — devi avere almeno %2$s articoli nel "
+"tuo carrello per effettuare il tuo ordine. <a href=\"%3$s\">Torna al "
+"negozio</a>"
+
+#: elkwcg.php:126
+#, php-format
+msgid ""
+"In your cart there are %1$s items — you must have a multiple of %2$s items "
+"in your cart to place your order. <a href=\"%3$s\">Back to Store</a>"
+msgstr ""
+"Nel tuo carrello ci sono %1$s articoli — devi avere un numero di articoli "
+"multiplo di %2$s nel tuo carrello per effettuare il tuo ordine. <a href="
+"\"%3$s\">Torna al negozio</a>"
+
+#: elkwcg.php:147
+#, php-format
+msgid ""
+"Your cart total is %1$s — the minimum amount to place an order is %2$s. <a "
+"href=\"%3$s\">Back to Store</a>"
+msgstr ""
+"Il totale del carrello è %1$s — l'importo minimo per effettuare un ordine è "
+"%2$s. <a href=\"%3$s\">Torna al negozio</a>"
+
+#: elkwcg.php:158
+#, php-format
+msgid ""
+"Your cart total is %1$s — if you place an order of at least %2$s you will be "
+"entitled to get free shipping. <a href=\"%3$s\">Back to Store?</a>"
+msgstr ""
+"Il totale del carrello è %1$s — se ordini almeno %2$s ottieni diritto alla "
+"la spedizione gratuita. <a href=\"%3$s\">Tornare al negozio?</a>"
+
+#. Plugin URI of the plugin/theme
+msgid "https://github.com/kokiddp/elkwcg"
+msgstr "https://github.com/kokiddp/elkwcg"
+
+#. Description of the plugin/theme
+msgid "This plugin adds some useful functions to WooCommerce"
+msgstr "Questo plugin aggiunge alcune funzioni utili a WooCommerce"
+
+#. Author of the plugin/theme
+msgid "ELK-Lab"
+msgstr "ELK-Lab"
+
+#. Author URI of the plugin/theme
+msgid "https://www.elk-lab.com"
+msgstr "https://www.elk-lab.com"
